@@ -1,0 +1,24 @@
+{
+  "created": "2026-09-06",
+  "btos": {
+    "source": "U.S. Census Bureau BTOS API period 107",
+    "date_range": "8/10/2026 - 8/23/2026",
+    "file": "btos/btos_ai_period107.csv",
+    "sha256": "BDDA32C05802B1FA983473D964C3B4D83F8FBC87845B78703C77D751FA1C9330"
+  },
+  "qcew": {
+    "source": "BLS QCEW 2025 final annual averages",
+    "file": "qcew_2025_final_state_sector.csv",
+    "sha256": "B29221A69ADD21FB32674FEECA74743AB60D2C85FBA2862124569301CB6184A7"
+  },
+  "acs": {
+    "source": "ACS 2020-2024 five-year table B15003",
+    "file": "acs2024_state_ba.csv",
+    "sha256": "2E91A77E344C4D29C71086838D7D7CA99D32AEB7D748C62629F83D0ACCFD46C0"
+  },
+  "broadband": {
+    "source": "County Health Rankings analytic supplement, 2026-03-25",
+    "file": "chr2026_state_broadband.csv",
+    "sha256": "C9CEA2E59BF46E13F9B2426CC45452155F9F5635787B063519E2935A5FB6F74C"
+  }
+}
