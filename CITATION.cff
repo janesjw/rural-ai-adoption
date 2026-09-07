@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "Replication package for The Rural-Urban Divide in Business Use of Artificial Intelligence"
+type: software
+authors:
+  - family-names: Sun
+    given-names: Junwen
+    orcid: "https://orcid.org/0009-0001-9767-3660"
+repository-code: "https://github.com/janesjw/rural-ai-adoption"
+version: 1.0.0
+date-released: 2026-09-06

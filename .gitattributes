@@ -1,0 +1,15 @@
+* text=auto
+.gitattributes text eol=lf
+.gitignore text eol=lf
+requirements.txt text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.cff text eol=lf
+data/raw/** -text
+*.docx binary
+*.xlsx binary
+*.zip binary
+*.7z binary
+*.png binary
